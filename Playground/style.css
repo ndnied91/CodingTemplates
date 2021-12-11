@@ -1,0 +1,16 @@
+
+.container{
+  background-color: grey;
+  width: 50%;
+  margin: 0 auto;
+}
+
+
+.completed{
+  text-decoration: line-through;
+}
+
+
+.delete{
+  background-color: red;
+}
